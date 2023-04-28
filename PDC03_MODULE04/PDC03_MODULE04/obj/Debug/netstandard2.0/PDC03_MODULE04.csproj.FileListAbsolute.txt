@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\bin\Debug\netstandard2.0\PDC03_MODULE04.deps.json
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\bin\Debug\netstandard2.0\PDC03_MODULE04.dll
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\bin\Debug\netstandard2.0\PDC03_MODULE04.pdb
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\activity01.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.AssemblyInfo.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.dll
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\refint\PDC03_MODULE04.dll
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\PDC03_MODULE04.pdb
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\ref\PDC03_MODULE04.dll
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\activity02.xaml.g.cs

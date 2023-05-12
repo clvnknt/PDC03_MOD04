@@ -19,7 +19,7 @@ namespace PDC03_MODULE04
 
         async void OnCloseButton(object sender, EventArgs e)
         {
-            awit Navigation.PopModalAsync();
+            await Navigation.PopModalAsync();
         }
     }
 }

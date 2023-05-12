@@ -9,7 +9,10 @@
         </Frame>
         <Button Text="Activity01-ListView" Clicked="OpenActivity01"></Button>
         <Button Text="Activity02-ListView-Binded" Clicked="OpenActivity02"></Button>
-                
+        <Button Text="Activity03-Navigation" Clicked="OpenActivity03"></Button>
+        <Button Text="Activity04-Carousel" Clicked="OpenActivity04"></Button>
+        <Button Text="Activity05-ListView-PassData" Clicked="OpenActivity05"></Button>
+
     </StackLayout>
 
 </ContentPage>

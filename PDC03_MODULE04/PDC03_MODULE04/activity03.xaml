@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC03_MODULE04.activity03">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Activty 03"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="Next" Clicked="onNextPage"/>
+            <Button Text="Previous" Clicked="onPreviousPage"/>
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
